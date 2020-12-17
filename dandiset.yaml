@@ -10,4 +10,4 @@ identifier: '000028'
 name: Simulated cortical Neuropixels recording with ground truth
 number_of_subjects: 2
 organism:
-- species: mus musculus
+- species: Mus musculus
