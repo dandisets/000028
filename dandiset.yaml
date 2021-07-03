@@ -5,21 +5,8 @@
 access:
 - status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 42942229688
-  numberOfFiles: 3
-  numberOfSubjects: 2
-  schemaKey: AssetsSummary
-  species:
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
-    name: House mouse
-    schemaKey: SpeciesType
-  variableMeasured: []
+  numberOfBytes: 0
+  numberOfFiles: 0
 citation: Simulated cortical Neuropixels recording with ground truth (2021). (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000028/draft
 description: A 10 minute Neuropixels recording simulated using the MEArec Python package
