@@ -40,7 +40,8 @@ description: A 10 minute Neuropixels recording simulated using the MEArec Python
   with 10uV standard deviation.
 id: DANDI:000028/draft
 identifier: DANDI:000028
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000028/versions/draft/assets/
 name: Simulated cortical Neuropixels recording with ground truth
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
