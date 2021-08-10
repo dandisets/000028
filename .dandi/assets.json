@@ -299,7 +299,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"0c7666842272e1e781dae40eb50d0901-440"
+"0c7666842272e1e781dae40eb50d0901-440",
+"dandi:sha2-256":
+"1815456ae99fc4490e78df0479cdbdb53085c5eff58949a5b61df255966fea5d"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -384,7 +386,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:48:10.316127+00:00",
+"2021-08-10T06:20:27.175100+00:00",
 "path":
 "sub-MEAREC-250neuron-Neuropixels/sub-MEAREC-250neuron-Neuropixels_ses-20200727T094620_ecephys.nwb",
 "size":
