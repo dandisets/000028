@@ -32,7 +32,7 @@ assetsSummary:
   - ElectrodeGroup
   - ElectricalSeries
   - Units
-citation: Simulated cortical Neuropixels recording with ground truth (2021). (Version
+citation: Simulated cortical Neuropixels recording with ground truth (2022). (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000028/draft
 dateCreated: '2020-07-26T21:11:42.917000+00:00'
 description: A 10 minute Neuropixels recording simulated using the MEArec Python package
